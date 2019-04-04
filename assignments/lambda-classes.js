@@ -70,8 +70,6 @@ class ProjectManagers extends Instructor {
 } // Project Managers
 
 
-
-
 // # Objects # //
 
 // Instructors
@@ -86,7 +84,7 @@ const ralph = new Instructor({
 });
 
 const josh = new Instructor({
-  name: 'Fred',
+  name: 'Josh',
   location: 'Bedrock',
   age: 37,
   gender: 'M',
